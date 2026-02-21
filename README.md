@@ -6,11 +6,11 @@ This project builds a Convolutional Neural Network (CNN) to recognize handwritte
 
 🎯 Objective
 
-Classify handwritten digits
+1.Classify handwritten digits
 
-Train and evaluate a CNN model
+2.Train and evaluate a CNN model
 
-Demonstrate digit prediction
+3.Demonstrate digit prediction
 
 🛠️ Tech Stack
 
@@ -18,13 +18,13 @@ Python • TensorFlow/Keras • NumPy • Matplotlib
 
 📂 Dataset
 
-MNIST Handwritten Digits
+1.MNIST Handwritten Digits
 
-60,000 training images
+2.60,000 training images
 
-10,000 testing images
+3.10,000 testing images
 
-28×28 grayscale
+4.28×28 grayscale
 (Automatically loaded via TensorFlow)
 
 🧩 Model
@@ -37,26 +37,18 @@ Test Accuracy: ~98–99%
 
 ▶️ How to Run
 git clone https://github.com/barkaviraids2025-commits/Codealpha_Handwritten_Digit_Recognition_Project
-cd CodeAlpha_Handwritten_Recognition
-pip install -r requirements.txt
-python mnist_digit_recognition.py
+1.cd CodeAlpha_Handwritten_Recognition
+2.pip install -r requirements.txt
+3.python mnist_digit_recognition.py
 🔮 Output
 
 Training logs
 
-Test accuracy
+1.Test accuracy
 
-Sample digit prediction
+2.Sample digit prediction
 
-Saved model: mnist_model.h5
-
-🚀 Future Improvements
-
-User drawing interface
-
-Alphabet recognition (EMNIST)
-
-Web deployment
+3.Saved model: mnist_model.h5
 
 🙌 Acknowledgment
 
